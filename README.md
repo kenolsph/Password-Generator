@@ -15,9 +15,10 @@ It allows users to choose password length, enable/disable character types, and e
 	•	One-click Copy to Clipboard
 	•	Responsive UI for mobile and desktop
 
-### 🛠️ Technologies Used
+ ### 🛠️ Technologies Used
 	•	HTML5
 	•	CSS3
 	•	JavaScript (Vanilla JS)
-	
-	<img width="1920" height="608" alt="Screenshot 2026-02-05 at 12 19 25" src="https://github.com/user-attachments/assets/a919e8ea-65c2-4f61-931b-962c9d491722" />
+
+
+<img width="1920" height="608" alt="Screenshot 2026-02-05 at 12 19 25" src="https://github.com/user-attachments/assets/366df3c5-64e4-437a-9698-ccfc7bd9d0c1" />
