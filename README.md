@@ -3,7 +3,6 @@
 A simple and responsive password generator built with HTML, CSS, and JavaScript.
 It allows users to choose password length, enable/disable character types, and easily copy the generated password.
 
-⸻
 
 ### 🚀 Features
 	•	Choose password length
