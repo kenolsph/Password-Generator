@@ -22,3 +22,6 @@ It allows users to choose password length, enable/disable character types, and e
 
 
 <img width="1920" height="608" alt="Screenshot 2026-02-05 at 12 19 25" src="https://github.com/user-attachments/assets/366df3c5-64e4-437a-9698-ccfc7bd9d0c1" />
+
+### LIVE DEMO 
+https://kenolsph.github.io/Password-Generator/
